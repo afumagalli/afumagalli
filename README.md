@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @afumagalli
-- 👀 I’m interested in authorization, app development, product security, education
-- 🌱 I’m currently learning iOS and macOS development
-- 💞️ I’m looking to collaborate on SSO strategies and best practices for iOS and other platforms
-- 📫 How to reach me: anthony.fumagalli@gmail.com
+
